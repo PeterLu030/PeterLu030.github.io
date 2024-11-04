@@ -48,7 +48,7 @@ orcid_username: 0009-0005-7222-2854
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yuan-Hsiang or you also call me Peter. I'm a a first-year Ph.D. student supervised by [Prof. Sung Kyu Lim](http://limsk.ece.gatech.edu) at [Georgia Tech Computer-aided Design Lab(GTCAD)](https://www.gtcad.gatech.edu). My research interests are in Machine Learning(ML) and Electronic Design Automation(EDA), and I’m currently working on topics related to GPU-accelerated routing.
+  Hi, my name's Yuan-Hsiang or you can also call me Peter. I'm a first-year Ph.D. student supervised by [Prof. Sung Kyu Lim](http://limsk.ece.gatech.edu) at [Georgia Tech Computer-aided Design Lab(GTCAD)](https://www.gtcad.gatech.edu). My research interests are in Machine Learning(ML) and Electronic Design Automation(EDA), and I’m currently working on topics related to GPU-accelerated routing.
 
 content:
   - title: Publication # Title for the section
